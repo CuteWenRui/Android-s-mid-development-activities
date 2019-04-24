@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent调用_软件1701郭文睿</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="btn_login">登录</string>
+    <string name="callPhone">打电话</string>
+    <string name="sendSMS">发短信</string>
+    <string name="openBrowser">打开浏览器</string>
+</resources>
